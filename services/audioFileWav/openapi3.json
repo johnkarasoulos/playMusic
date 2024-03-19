@@ -1,0 +1,23 @@
+{
+    "openapi": "3.0.0",
+    "info": {
+        "title": "audioFile",
+        "version": "1.0.0"
+    },
+    "servers": [
+        {
+            "url": "vb-catalog://backends/myBucket"
+        }
+    ],
+    "paths": {
+        "/freejazz.wav": {
+            "get": {
+                "operationId": "getFreejazzWav",
+                "responses": {},
+                "x-vb": {
+                    "actionHint": "getOne"
+                }
+            }
+        }
+    }
+}

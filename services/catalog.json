@@ -1,0 +1,12 @@
+{
+    "backends": {
+        "myBucket": {
+            "servers": [
+                {
+                    "url": "https://objectstorage.eu-frankfurt-1.oraclecloud.com/p/A2Q631gfm2RJoe2zg030EvVKsuoORg6s9J1bjcNd6tzwipNewvYbq_5d7swlVdJz/n/frsxwtjslf35/b/vbcsBucket/o",
+                    "description": "P A2Q631gfm2RJoe2zg030EvVKsuoORg6s9J1bjcNd6tzwipNewvYbq 5d7swlVdJz"
+                }
+            ]
+        }
+      }
+}
