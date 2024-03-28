@@ -1,5 +1,5 @@
 ## Play Music (WAV) files
-This is a sample Oracle VisualBuilder Application that demonstrates how to upload any music file (WAV format) and listen to the music with the embeded media control. 
+This is a sample Oracle VisualBuilder Application that demonstrates how to upload any music file (WAV format) and listen to the music with the embedded media control. 
 
 <img width="450" alt="Screenshot 2024-03-28 at 11 35 39" src="https://github.com/johnkarasoulos/playMusic/assets/25766024/c2ab9f4e-7aa3-4f15-a5e3-6f3e42dd1842">
 
